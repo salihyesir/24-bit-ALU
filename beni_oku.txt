@@ -1,0 +1,5 @@
+Devrenin büyüklüðünden dolayý logisim sebebsiz hata verebilir. 
+Hata olmayan yerlerde bazen sebepsiz hata varmýþ gibi gösterir.
+Bu durumda ctrl+r ile simulasyonu resetleyin.
+ALU içerisindeki bütün iþlemler defalarca test edilmiþtir.
+Dosya içerisindeki resimler anlaþýlmasý zor olan kýsýmlarýn ispatý olmasý için býrakýlmýþtýr.
