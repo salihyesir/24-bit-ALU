@@ -1,1 +1,7 @@
-# 24-bit-ALU
+- AND
+- OR
+- NOR
+- XOR
+- ADD/SUB (Carry Ripple)
+- MULTIPLY (Combinational)
+- ADD/SUB (CLA)
